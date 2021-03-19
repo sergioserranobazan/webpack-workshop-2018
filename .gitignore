@@ -60,3 +60,8 @@ typings/
 # webpack default dist folder
 dist/
 
+# pycharm config proyect folder
+.idea
+
+# lock npm json
+package-lock.json
